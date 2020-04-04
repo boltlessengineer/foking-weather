@@ -1,2 +1,2 @@
-# foking-weather
+# Foking Weather
 Learning React Native by Building a Foking Weather App
